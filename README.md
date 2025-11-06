@@ -21,8 +21,9 @@ This repository is a centralized knowledge base designed to help first-year stud
 
 These are the resources being maintained by:
 
-1. [Younus Syed](https://github.com/YounusSyed186) - [LinkedIn](https://www.linkedin.com/in/younus-syed-2b7913295/)
-2. [Advait Joshi](https://github.com/TheUsefulNerd) - [LinkedIn](www.linkedin.com/in/advaitszone)
+1. [M. Sai Deekshith](https://github.com/SaiDeekshith2504) - [LinkedIn](https://www.linkedin.com/in/munaga-sai-deekshith-62a173203)
+2. [Younus Syed](https://github.com/YounusSyed186) - [LinkedIn](https://www.linkedin.com/in/younus-syed-2b7913295/)
+3. [Advait Joshi](https://github.com/TheUsefulNerd) - [LinkedIn](www.linkedin.com/in/advaitszone)
 
 ## 📂 Structure - Resources Folder
 
