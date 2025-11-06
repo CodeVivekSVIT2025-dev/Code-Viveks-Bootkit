@@ -32,13 +32,13 @@ to this repository.
 2. **Clone the Forked Repository**  
    Open your terminal (macOS/Linux) or Git Bash (Windows) and run:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/
+   git clone https://github.com/YOUR_USERNAME/Code-Viveks-Bootkit
    ```
    Replace `YOUR_USERNAME` with your GitHub username.
 
 3. **Navigate to the Project Directory**  
    ```bash
-   cd 
+   cd Code-Viveks-Bootkit
    ```
    ```bash
    cd Resources
