@@ -56,11 +56,11 @@ Follow these simple steps to start learning:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/](https://github.com/CodeVivekSVIT2025-dev/Code-Viveks-Bootkit.git)
 ```
 
 ```bash
-cd CODE-VIVEKS-BOOTKIT
+cd Code-Viveks-Bootkit
 ```
 
 ### 2. Browse by Topic
