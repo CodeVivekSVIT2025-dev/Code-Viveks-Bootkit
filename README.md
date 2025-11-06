@@ -7,7 +7,7 @@
   </a>
 </div>
 
-# 🚀 RVCE Coding Bootkit
+# 🚀 Code Viveks Bootkit
 
 _A curated bootkit for first-year students, interested in Computer Science, to explore core concepts, tools, and resources._
 
